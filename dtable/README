@@ -1,0 +1,1 @@
+Simple CLRS-inspired dynamic table implementation with load factor of 1/4 for contraction and expansion multiplier of 2.
