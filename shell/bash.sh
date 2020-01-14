@@ -7,3 +7,6 @@ export PS1='\w$(__git_ps1 " (%s)") $ '
 
 # minimize prompt
 PS1="\w> "
+
+# direnv
+eval "$(direnv hook bash)"
