@@ -8,6 +8,9 @@
 # IntelliJ projects
 .idea
 
+# CLion CMake project builds
+cmake-build-*
+
 # direnv
 .envrc
 
