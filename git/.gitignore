@@ -1,0 +1,15 @@
+# Global exludes
+# Copy to home and add with: 
+# git config --global core.excludesfile ~/.gitignore
+
+# macOS file system
+.DS_Store
+
+# IntelliJ projects
+.idea
+
+# direnv
+.envrc
+
+# Local GOPATHs
+.go
