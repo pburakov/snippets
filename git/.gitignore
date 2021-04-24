@@ -6,14 +6,20 @@
 .DS_Store
 
 # IntelliJ projects
-.idea
+.idea/
 *.iml
 
+# mvn and cargo targets
+target/
+
 # CLion CMake project builds
-cmake-build-*
+cmake-build-*/
 
 # direnv
 .envrc
 
 # Local GOPATHs
 .go
+
+# Python virtualenv
+venv/
